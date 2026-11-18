@@ -6,7 +6,7 @@ and IT project manager apprentice at the French Ministry of the Interior.
 🎯 Looking for a **full-time software engineering or AI role in the United States**, starting **September 2027**.
 
 🌐 **Portfolio:** [amn-sdk.github.io](https://amn-sdk.github.io/) · interactive 3D version: [amn-sdk.github.io/matchday](https://amn-sdk.github.io/matchday/)<br>
-💼 **LinkedIn:** [linkedin.com/in/amine-saddik-070306267](https://www.linkedin.com/in/amine-saddik-070306267/) · ✉️ aminesdh.pro@gmail.com
+💼 **LinkedIn:** [linkedin.com/in/amine-saddik](https://www.linkedin.com/in/amine-saddik/) · ✉️ aminesdh.pro@gmail.com
 
 ### Featured work
 
